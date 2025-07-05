@@ -28,4 +28,4 @@ This is a simple personal webpage created using HTML and CSS.
 - External image and social links
 
 
-> This website is a simple starting point to showcase my personal profile and current/future projects.
+This website is a simple starting point to showcase my personal profile and current/future projects.
